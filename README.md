@@ -1,6 +1,6 @@
 - 👋 Hello, I’m Léonore Tideman @LEMTideman
 - 👀 I’m interested in machine learning for biomedical research
-- 📫 You can reach me via LinkedIn
+- 📫 You can reach me on LinkedIn
 
 <!---
 LEMTideman/LEMTideman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
