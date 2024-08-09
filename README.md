@@ -1,5 +1,7 @@
  👋 Hello, I’m Léonore Tideman @LEMTideman
+ 
  👀 I’m interested in machine learning for analyzing molecular imaging data
+ 
  📫 You can reach me on LinkedIn
 
 <!---
