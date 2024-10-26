@@ -1,8 +1,10 @@
  👋 Hello, I’m Léonore Tideman @LEMTideman
+
+ :memo: I have a background in control engineering
  
- 👀 I’m interested in machine learning for analyzing molecular imaging data
+:mag_right: I develop machine learning tools for analyzing multiplexed molecular imaging data
  
- 📫 You can reach me on LinkedIn
+:envelope: You can reach me on LinkedIn
 
 <!---
 LEMTideman/LEMTideman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
