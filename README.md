@@ -2,7 +2,7 @@
 
  :memo: I have a background in control engineering
  
-:mag_right: I develop machine learning tools for analyzing multiplexed molecular imaging data
+:mag_right: I develop machine learning tools for multiplexed molecular imaging data
  
 :envelope: You can reach me on LinkedIn
 
